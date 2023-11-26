@@ -31,7 +31,7 @@
 
 ## **Notes**
 
-### Time Complexity Part #1 (Introduction)
+### Time Complexity 01 - Introduction
 
 1. **Definition and Measurement:**
    - Time complexity measures the time an algorithm or Turing machine takes to solve a problem as a function of the input size.
